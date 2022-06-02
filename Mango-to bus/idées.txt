@@ -1,0 +1,35 @@
+mangue
+bus
+6 voix
+un arbre, un truc de radar, camion, char d'assaut, voitures
+
+On arrive sur l'écran titre qui nous dit le contexte:
+On voit un bus conduit par une mangue, "cette mangue doit faire le tour du monde en bus le plus rapidement possible".
+
+On clique sur play;
+
+une autoroute a six voix sur laquelle on trouve: 
+	-Des tank qui avancent lentement > collision = boom
+	-Des voitures qui avancent a peine plus lentement que moi > collision =boom
+	-Un arbre sur 2 voix de la route qui ne bougera pas > collision = boom
+	-Un auto-stoppeur sur le côté de la route (il nous empêche d'utiliser les côtés) > collision = le jeu s'arrête 
+et l'autostoppeur qui nous remercie mais on a perdu.
+	-Un !!!!!sattelite!!!!! écrasé qui prend 3 voix
+	-Des valises qui prennent une voix
+
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+https://www.youtube.com/watch?v=UuV_XFfyqL0
+
+A REGARDER ET REMPLACER 
